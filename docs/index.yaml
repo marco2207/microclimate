@@ -1,13 +1,13 @@
 apiVersion: v1
 entries:
   ibm-microclimate:
-  - created: 2018-03-08T14:39:40.84170717+01:00
-    description: Environment for end to end development, from code generation to cloud
-      deployment.
-    digest: 1eb7e77d1ad3ae122497193809875cc289abb68a44984a725d65d1ce557d8fc1
+  - created: 2018-03-19T14:55:26.084952899+01:00
+    description: End to end development environment for rapidly creating, developing
+      and deploying applications.
+    digest: 5c1e6983aaf32a312a03c86174619d28767324061528279860a03b325596a89d
     name: ibm-microclimate
-    tillerVersion: '>=2.4.0'
+    tillerVersion: '>=2.6.0'
     urls:
-    - https://marco2207.github.io/microclimateHelm/ibm-microclimate-0.1.0-beta.tgz
-    version: 0.1.0-beta
-generated: 2018-03-08T14:39:40.840780593+01:00
+    - https://marco2207.github.io/microclimateHelm/ibm-microclimate-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-03-19T14:55:26.080200892+01:00
